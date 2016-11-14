@@ -1,3 +1,2 @@
 # linux_status
-Ê¹ÓÃGOÓÓïÑÔ,»ñÈ¡linuxÖ÷»úµÄÔËĞĞ×´Ì¬
-CPU\ÄÚ´æ\ÓÓ²ÅÌ
+ssh get linux CPU\RAM\DESK
