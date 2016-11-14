@@ -1,2 +1,2 @@
 # linux_status
-ssh get linux CPU\RAM\DESK
+获取linux 主机的cpu、内存、磁盘使用信息
